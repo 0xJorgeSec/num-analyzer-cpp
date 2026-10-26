@@ -19,7 +19,7 @@ A simple yet effective C++ command-line tool designed to handle dynamic input da
 
 1. Clone the repository:
    
-   ```git clone [https://github.com/0xJorgeSec/num-analyzer-cpp.git](https://github.com/0xJorgeSec/num-analyzer-cpp.git)```
+   ```git clone https://github.com/0xJorgeSec/num-analyzer-cpp.git```
 
 2. Compile the source code using a C++ compiler (like g++):
 
